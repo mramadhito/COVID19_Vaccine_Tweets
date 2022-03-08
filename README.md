@@ -9,6 +9,10 @@ ones. Chinese vaccines have a slightly lower sentiment score on Twitter than non
 vaccines. Ultimately, we can prove that there are significant differences in online conversations
 between different types of vaccines.
 
+![](https://github.com/mramadhito/COVID19_Vaccine_Tweets/blob/main/images/sentiment_hist_mrna.png)
+
+![](https://github.com/mramadhito/COVID19_Vaccine_Tweets/blob/main/images/sentiment_hist_nonmrna.png)
+
 ## Authors:
 
 * Garda Ramadhito
